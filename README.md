@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wtfsayo-user-review-mcp-badge.png)](https://mseep.ai/app/wtfsayo-user-review-mcp)
+
 # User Review MCP Server
 
 A Model Context Protocol (MCP) server that simulates "fake" harsh user reviews designed to tame AI agents and enforce disciplined development practices.
